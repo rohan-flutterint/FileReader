@@ -1,2 +1,2 @@
 # FileReader
-File reader usinf threads
+File reader using threads
